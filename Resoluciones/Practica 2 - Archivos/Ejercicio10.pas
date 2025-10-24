@@ -70,8 +70,7 @@ var
 begin   
     assign (a, "archivo.dat");
     contabilizar(a);. 
-end
-
+end.
 
         
 
