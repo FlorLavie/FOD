@@ -21,4 +21,3 @@ begin
         reg.departamento := valorAlto;
 end
 
-procedure 
