@@ -1,4 +1,4 @@
-{10. Se necesita contabilizar los votos de las diferentes mesas electorales registradas por PROVINCIA y LOCALIDAD. Para ello, se posee un archivo con la siguiente informacion: codigo de provincia, codigo de localidad, numero de mesa y cantidad de votos en dicha mesa-
+{CORTE DE CONTROL 10. Se necesita contabilizar los votos de las diferentes mesas electorales registradas por PROVINCIA y LOCALIDAD. Para ello, se posee un archivo con la siguiente informacion: codigo de provincia, codigo de localidad, numero de mesa y cantidad de votos en dicha mesa-
 Presentar en pantalla un listado
 }
 
