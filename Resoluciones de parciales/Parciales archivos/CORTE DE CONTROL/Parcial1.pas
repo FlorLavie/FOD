@@ -38,6 +38,8 @@ var
     cantAños: integer;
     cantPresentaciones: integer
     totalpresentaciones: integer:
+    puntajeMin : integer;
+    dislikeMax: integer;
 
 
 
