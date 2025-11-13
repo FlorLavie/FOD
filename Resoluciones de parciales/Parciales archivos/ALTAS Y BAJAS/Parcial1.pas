@@ -110,7 +110,7 @@ begin
     read (a, cabecera) ;
     ok:= false;
 
-    // recorro buscando el empleado
+    // recorro buscando donde insertar el empleado
     while (not eof (a) and (ok :=false)) do
     begin
         read(a, reg);
