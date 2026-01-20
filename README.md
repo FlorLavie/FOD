@@ -20,7 +20,8 @@ En este espacio se trabajan los **conceptos y técnicas de organización de dato
 
 ### 4. Dispersión (Hashing)
 - Concepto de función de dispersión.  
-- Densidad de empaquetamiento y colisiones.  
+- Densidad de empaquetamiento y colisiones
+- 
 
 
 
